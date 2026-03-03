@@ -92,12 +92,16 @@ This helps management understand performance drivers and improve evaluation proc
 # Streamlit Interface
 
 <img width="1753" height="787" alt="image" src="https://github.com/user-attachments/assets/3d6b2a4b-61fd-4ebb-96fb-d82ebd62f716" />
+---
 
 <img width="1805" height="826" alt="image" src="https://github.com/user-attachments/assets/af3e640f-d773-48f6-9744-80ed134ebcd7" />
+---
 
 <img width="1761" height="737" alt="image" src="https://github.com/user-attachments/assets/b444d499-1c64-4970-b4d5-91c92327e33a" />
+---
 
 <img width="1827" height="782" alt="image" src="https://github.com/user-attachments/assets/5182f6ce-9b2f-4a96-83d8-1608437af6ab" />
+---
 
 
 
